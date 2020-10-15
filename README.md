@@ -3,6 +3,4 @@ A little visualisation of randomly spawned dots, connected to each closest dots 
 
 ## Preview
 
-<div align = "center">
-  <img src="https://github.com/desdeux/dots/blob/master/dots.gif"></img>
-</div>
+![preview](dots.gif)
